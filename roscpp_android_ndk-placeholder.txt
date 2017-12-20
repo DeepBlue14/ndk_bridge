@@ -1,0 +1,1 @@
+place the roscpp_android_ndk binary in this directory

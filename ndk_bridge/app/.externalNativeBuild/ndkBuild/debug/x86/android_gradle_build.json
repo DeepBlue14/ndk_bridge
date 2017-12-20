@@ -1,0 +1,53 @@
+{
+  "buildFiles": [
+    "/home/csrobot/AndroidStudioProjects/RosNdkPrac/sample_app/app/src/main/jni/Android.mk",
+    "/home/csrobot/AndroidStudioProjects/RosNdkPrac/sample_app/app/src/main/jni/Application.mk"
+  ],
+  "cleanCommands": [
+    "/home/csrobot/Android/Sdk/ndk-bundle/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/home/csrobot/AndroidStudioProjects/RosNdkPrac/sample_app/app/src/main/jni/Android.mk NDK_APPLICATION_MK\u003d/home/csrobot/AndroidStudioProjects/RosNdkPrac/sample_app/app/src/main/jni/Application.mk APP_ABI\u003dx86 NDK_ALL_ABIS\u003dx86 NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-14 NDK_OUT\u003d/home/csrobot/AndroidStudioProjects/RosNdkPrac/sample_app/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003d/home/csrobot/AndroidStudioProjects/RosNdkPrac/sample_app/app/build/intermediates/ndkBuild/debug/lib clean"
+  ],
+  "libraries": {
+    "sample_app-debug-x86": {
+      "buildCommand": "/home/csrobot/Android/Sdk/ndk-bundle/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/home/csrobot/AndroidStudioProjects/RosNdkPrac/sample_app/app/src/main/jni/Android.mk NDK_APPLICATION_MK\u003d/home/csrobot/AndroidStudioProjects/RosNdkPrac/sample_app/app/src/main/jni/Application.mk APP_ABI\u003dx86 NDK_ALL_ABIS\u003dx86 NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-14 NDK_OUT\u003d/home/csrobot/AndroidStudioProjects/RosNdkPrac/sample_app/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003d/home/csrobot/AndroidStudioProjects/RosNdkPrac/sample_app/app/build/intermediates/ndkBuild/debug/lib /home/csrobot/AndroidStudioProjects/RosNdkPrac/sample_app/app/build/intermediates/ndkBuild/debug/obj/local/x86/libsample_app.so",
+      "toolchain": "toolchain-x86",
+      "abi": "x86",
+      "artifactName": "sample_app",
+      "files": [
+        {
+          "src": "/home/csrobot/Android/Sdk/ndk-bundle/sources/android/native_app_glue/android_native_app_glue.c",
+          "flags": "\"-gcc-toolchain\" \"/home/csrobot/Android/Sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/linux-x86_64\" \"-target\" \"i686-none-linux-android\" \"-ffunction-sections\" \"-funwind-tables\" \"-fstack-protector-strong\" \"-fPIC\" \"-Wno-invalid-command-line-argument\" \"-Wno-unused-command-line-argument\" \"-no-canonical-prefixes\" \"-g\" \"-O0\" \"-UNDEBUG\" \"-fno-limit-debug-info\" \"-I/home/csrobot/Android/Sdk/ndk-bundle/sources/android/native_app_glue\" \"-DANDROID\" \"-Wa,--noexecstack\" \"-Wformat\" \"-Werror\u003dformat-security\" \"-mstackrealign\" \"-isystem\" \"/home/csrobot/Android/Sdk/ndk-bundle/platforms/android-14/arch-x86/usr/include\""
+        },
+        {
+          "src": "/home/csrobot/AndroidStudioProjects/RosNdkPrac/sample_app/app/src/main/jni/src/test.cpp",
+          "flags": "\"-gcc-toolchain\" \"/home/csrobot/Android/Sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/linux-x86_64\" \"-target\" \"i686-none-linux-android\" \"-ffunction-sections\" \"-funwind-tables\" \"-fstack-protector-strong\" \"-fPIC\" \"-Wno-invalid-command-line-argument\" \"-Wno-unused-command-line-argument\" \"-no-canonical-prefixes\" \"-g\" \"-fno-exceptions\" \"-fno-rtti\" \"-O0\" \"-UNDEBUG\" \"-fno-limit-debug-info\" \"-I/home/csrobot/AndroidStudioProjects/RosNdkPrac/sample_app/app/src/main/jni/include\" \"-I/home/csrobot/Android/Sdk/ndk-bundle/sources/android/native_app_glue\" \"-I/home/csrobot/AndroidStudioProjects/RosNdkPrac/sample_app/app/src/main/jni/../../../../../roscpp_android_ndk/include\" \"-I/home/csrobot/Android/Sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include\" \"-I/home/csrobot/Android/Sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/libs/x86/include\" \"-I/home/csrobot/Android/Sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/backward\" \"-I/home/csrobot/AndroidStudioProjects/RosNdkPrac/sample_app/app/src/main/jni\" \"-DANDROID\" \"-Wa,--noexecstack\" \"-Wformat\" \"-Werror\u003dformat-security\" \"-mstackrealign\" \"-fexceptions\" \"-frtti\" \"-isystem\" \"/home/csrobot/Android/Sdk/ndk-bundle/platforms/android-14/arch-x86/usr/include\""
+        }
+      ],
+      "output": "/home/csrobot/AndroidStudioProjects/RosNdkPrac/sample_app/app/build/intermediates/ndkBuild/debug/obj/local/x86/libsample_app.so"
+    },
+    "android_native_app_glue-debug-x86": {
+      "buildCommand": "/home/csrobot/Android/Sdk/ndk-bundle/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/home/csrobot/AndroidStudioProjects/RosNdkPrac/sample_app/app/src/main/jni/Android.mk NDK_APPLICATION_MK\u003d/home/csrobot/AndroidStudioProjects/RosNdkPrac/sample_app/app/src/main/jni/Application.mk APP_ABI\u003dx86 NDK_ALL_ABIS\u003dx86 NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-14 NDK_OUT\u003d/home/csrobot/AndroidStudioProjects/RosNdkPrac/sample_app/app/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003d/home/csrobot/AndroidStudioProjects/RosNdkPrac/sample_app/app/build/intermediates/ndkBuild/debug/lib /home/csrobot/AndroidStudioProjects/RosNdkPrac/sample_app/app/build/intermediates/ndkBuild/debug/obj/local/x86/libandroid_native_app_glue.a",
+      "toolchain": "toolchain-x86",
+      "abi": "x86",
+      "artifactName": "android_native_app_glue",
+      "files": [
+        {
+          "src": "/home/csrobot/Android/Sdk/ndk-bundle/sources/android/native_app_glue/android_native_app_glue.c",
+          "flags": "\"-gcc-toolchain\" \"/home/csrobot/Android/Sdk/ndk-bundle/toolchains/x86-4.9/prebuilt/linux-x86_64\" \"-target\" \"i686-none-linux-android\" \"-ffunction-sections\" \"-funwind-tables\" \"-fstack-protector-strong\" \"-fPIC\" \"-Wno-invalid-command-line-argument\" \"-Wno-unused-command-line-argument\" \"-no-canonical-prefixes\" \"-g\" \"-O0\" \"-UNDEBUG\" \"-fno-limit-debug-info\" \"-I/home/csrobot/Android/Sdk/ndk-bundle/sources/android/native_app_glue\" \"-DANDROID\" \"-Wa,--noexecstack\" \"-Wformat\" \"-Werror\u003dformat-security\" \"-mstackrealign\" \"-isystem\" \"/home/csrobot/Android/Sdk/ndk-bundle/platforms/android-14/arch-x86/usr/include\""
+        }
+      ],
+      "output": "/home/csrobot/AndroidStudioProjects/RosNdkPrac/sample_app/app/build/intermediates/ndkBuild/debug/obj/local/x86/libandroid_native_app_glue.a"
+    }
+  },
+  "toolchains": {
+    "toolchain-x86": {
+      "cCompilerExecutable": "/home/csrobot/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/bin/clang",
+      "cppCompilerExecutable": "/home/csrobot/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

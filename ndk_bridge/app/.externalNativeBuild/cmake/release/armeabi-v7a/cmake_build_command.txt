@@ -1,0 +1,15 @@
+Executable : /home/csrobot/Android/Sdk/cmake/3.6.3155560/bin/cmake
+arguments : 
+-H/home/csrobot/CsProjects/JavaProjects/RosNdkPrac/DanRosJCxxPrac/app
+-B/home/csrobot/CsProjects/JavaProjects/RosNdkPrac/DanRosJCxxPrac/app/.externalNativeBuild/cmake/release/armeabi-v7a
+-GAndroid Gradle - Ninja
+-DANDROID_ABI=armeabi-v7a
+-DANDROID_NDK=/home/csrobot/Android/Sdk/ndk-bundle
+-DCMAKE_LIBRARY_OUTPUT_DIRECTORY=/home/csrobot/CsProjects/JavaProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/cmake/release/obj/armeabi-v7a
+-DCMAKE_BUILD_TYPE=Release
+-DCMAKE_MAKE_PROGRAM=/home/csrobot/Android/Sdk/cmake/3.6.3155560/bin/ninja
+-DCMAKE_TOOLCHAIN_FILE=/home/csrobot/Android/Sdk/ndk-bundle/build/cmake/android.toolchain.cmake
+-DANDROID_NATIVE_API_LEVEL=15
+-DCMAKE_CXX_FLAGS=-std=c++11
+jvmArgs : 
+

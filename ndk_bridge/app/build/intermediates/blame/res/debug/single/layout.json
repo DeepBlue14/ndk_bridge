@@ -1,0 +1,682 @@
+[
+    {
+        "merged": "/home/csrobot/CsProjects/JavaProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/home/csrobot/CsProjects/JavaProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/home/james/CsProjects/JavaProjects/AndroidProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/home/james/CsProjects/JavaProjects/AndroidProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/csrobot/CsProjects/JavaProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/home/csrobot/CsProjects/JavaProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/csrobot/CsProjects/JavaProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/home/csrobot/CsProjects/JavaProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/home/james/CsProjects/JavaProjects/AndroidProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/home/james/CsProjects/JavaProjects/AndroidProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/csrobot/CsProjects/JavaProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/home/csrobot/CsProjects/JavaProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/home/csrobot/CsProjects/JavaProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/home/csrobot/CsProjects/JavaProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/james/CsProjects/JavaProjects/AndroidProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/home/james/CsProjects/JavaProjects/AndroidProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/home/csrobot/CsProjects/JavaProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/home/csrobot/CsProjects/JavaProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/csrobot/CsProjects/JavaProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/home/csrobot/CsProjects/JavaProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/home/csrobot/CsProjects/JavaProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/home/csrobot/CsProjects/JavaProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/home/james/CsProjects/JavaProjects/AndroidProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/home/james/CsProjects/JavaProjects/AndroidProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/home/csrobot/CsProjects/JavaProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/notification_template_custom_big.xml",
+        "source": "/home/csrobot/CsProjects/JavaProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/csrobot/CsProjects/JavaProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/home/csrobot/CsProjects/JavaProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/home/james/CsProjects/JavaProjects/AndroidProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/home/james/CsProjects/JavaProjects/AndroidProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/home/james/CsProjects/JavaProjects/AndroidProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/home/james/CsProjects/JavaProjects/AndroidProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/home/csrobot/CsProjects/JavaProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/home/csrobot/CsProjects/JavaProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/home/csrobot/CsProjects/JavaProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/network_config.xml",
+        "source": "/home/csrobot/CsProjects/JavaProjects/RosNdkPrac/DanRosJCxxPrac/app/src/main/res/layout/network_config.xml"
+    },
+    {
+        "merged": "/home/james/CsProjects/JavaProjects/AndroidProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/home/james/CsProjects/JavaProjects/AndroidProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/home/james/CsProjects/JavaProjects/AndroidProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/home/james/CsProjects/JavaProjects/AndroidProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/csrobot/CsProjects/JavaProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/home/csrobot/CsProjects/JavaProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/home/james/CsProjects/JavaProjects/AndroidProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/home/james/CsProjects/JavaProjects/AndroidProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/james/CsProjects/JavaProjects/AndroidProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/home/james/CsProjects/JavaProjects/AndroidProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/home/james/CsProjects/JavaProjects/AndroidProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/network_config.xml",
+        "source": "/home/james/CsProjects/JavaProjects/AndroidProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/src/main/res/layout/network_config.xml"
+    },
+    {
+        "merged": "/home/csrobot/CsProjects/JavaProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/home/csrobot/CsProjects/JavaProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/csrobot/CsProjects/JavaProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/home/csrobot/CsProjects/JavaProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/csrobot/CsProjects/JavaProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/home/csrobot/CsProjects/JavaProjects/RosNdkPrac/DanRosJCxxPrac/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/home/csrobot/CsProjects/JavaProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/home/csrobot/CsProjects/JavaProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/home/james/CsProjects/JavaProjects/AndroidProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/home/james/CsProjects/JavaProjects/AndroidProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/home/csrobot/CsProjects/JavaProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/home/csrobot/CsProjects/JavaProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/home/csrobot/CsProjects/JavaProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/home/csrobot/CsProjects/JavaProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/home/csrobot/CsProjects/JavaProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/home/csrobot/CsProjects/JavaProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/james/CsProjects/JavaProjects/AndroidProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/home/james/CsProjects/JavaProjects/AndroidProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/home/james/CsProjects/JavaProjects/AndroidProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/home/james/CsProjects/JavaProjects/AndroidProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/csrobot/CsProjects/JavaProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/home/csrobot/CsProjects/JavaProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/home/csrobot/CsProjects/JavaProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/home/csrobot/CsProjects/JavaProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/home/csrobot/CsProjects/JavaProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/home/csrobot/CsProjects/JavaProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/home/james/CsProjects/JavaProjects/AndroidProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/home/james/CsProjects/JavaProjects/AndroidProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/home/james/CsProjects/JavaProjects/AndroidProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/home/james/CsProjects/JavaProjects/AndroidProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/james/CsProjects/JavaProjects/AndroidProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/notification_template_custom_big.xml",
+        "source": "/home/james/CsProjects/JavaProjects/AndroidProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/james/CsProjects/JavaProjects/AndroidProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/home/james/CsProjects/JavaProjects/AndroidProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/home/james/CsProjects/JavaProjects/AndroidProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/home/james/CsProjects/JavaProjects/AndroidProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/home/csrobot/CsProjects/JavaProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/home/csrobot/CsProjects/JavaProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/home/james/CsProjects/JavaProjects/AndroidProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/home/james/CsProjects/JavaProjects/AndroidProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/home/james/CsProjects/JavaProjects/AndroidProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/home/james/CsProjects/JavaProjects/AndroidProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/home/james/CsProjects/JavaProjects/AndroidProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/home/james/CsProjects/JavaProjects/AndroidProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/home/james/CsProjects/JavaProjects/AndroidProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/home/james/CsProjects/JavaProjects/AndroidProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/home/csrobot/CsProjects/JavaProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/home/csrobot/CsProjects/JavaProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/james/CsProjects/JavaProjects/AndroidProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/home/james/CsProjects/JavaProjects/AndroidProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/james/CsProjects/JavaProjects/AndroidProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/home/james/CsProjects/JavaProjects/AndroidProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/home/james/CsProjects/JavaProjects/AndroidProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/home/james/CsProjects/JavaProjects/AndroidProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/james/CsProjects/JavaProjects/AndroidProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/home/james/CsProjects/JavaProjects/AndroidProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/home/csrobot/CsProjects/JavaProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/home/csrobot/CsProjects/JavaProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/home/csrobot/CsProjects/JavaProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/home/csrobot/CsProjects/JavaProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/home/james/CsProjects/JavaProjects/AndroidProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/home/james/CsProjects/JavaProjects/AndroidProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/csrobot/CsProjects/JavaProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/home/csrobot/CsProjects/JavaProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/home/csrobot/CsProjects/JavaProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/home/csrobot/CsProjects/JavaProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/home/csrobot/CsProjects/JavaProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/home/csrobot/CsProjects/JavaProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/home/csrobot/CsProjects/JavaProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/home/csrobot/CsProjects/JavaProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/home/csrobot/CsProjects/JavaProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/home/csrobot/CsProjects/JavaProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/james/CsProjects/JavaProjects/AndroidProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/home/james/CsProjects/JavaProjects/AndroidProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/home/james/CsProjects/JavaProjects/AndroidProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/home/james/CsProjects/JavaProjects/AndroidProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/home/james/CsProjects/JavaProjects/AndroidProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/home/james/CsProjects/JavaProjects/AndroidProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/home/csrobot/CsProjects/JavaProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/home/csrobot/CsProjects/JavaProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/home/csrobot/CsProjects/JavaProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/notification_template_custom_big.xml",
+        "source": "/home/csrobot/CsProjects/JavaProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/csrobot/CsProjects/JavaProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/home/csrobot/CsProjects/JavaProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/home/csrobot/CsProjects/JavaProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/home/csrobot/CsProjects/JavaProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/home/james/CsProjects/JavaProjects/AndroidProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/home/james/CsProjects/JavaProjects/AndroidProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/james/CsProjects/JavaProjects/AndroidProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/home/james/CsProjects/JavaProjects/AndroidProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/csrobot/CsProjects/JavaProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/home/csrobot/CsProjects/JavaProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/csrobot/CsProjects/JavaProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/home/csrobot/CsProjects/JavaProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/csrobot/CsProjects/JavaProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/notification_template_lines_media.xml",
+        "source": "/home/csrobot/CsProjects/JavaProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/home/csrobot/CsProjects/JavaProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/home/csrobot/CsProjects/JavaProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/james/CsProjects/JavaProjects/AndroidProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/network_config.xml",
+        "source": "/home/james/CsProjects/JavaProjects/AndroidProjects/RosNdkPrac/DanRosJCxxPrac/app/src/main/res/layout/network_config.xml"
+    },
+    {
+        "merged": "/home/james/CsProjects/JavaProjects/AndroidProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/home/james/CsProjects/JavaProjects/AndroidProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/home/csrobot/CsProjects/JavaProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/home/csrobot/CsProjects/JavaProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/home/csrobot/CsProjects/JavaProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/home/csrobot/CsProjects/JavaProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/home/csrobot/CsProjects/JavaProjects/RosNdkPrac/sample_app/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/home/csrobot/CsProjects/JavaProjects/RosNdkPrac/sample_app/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/home/csrobot/CsProjects/JavaProjects/RosNdkPrac/sample_app/app/build/intermediates/res/merged/debug/layout/network_config.xml",
+        "source": "/home/csrobot/CsProjects/JavaProjects/RosNdkPrac/sample_app/app/src/main/res/layout/network_config.xml"
+    },
+    {
+        "merged": "/home/james/CsProjects/JavaProjects/AndroidProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/home/james/CsProjects/JavaProjects/AndroidProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/home/csrobot/CsProjects/JavaProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/home/csrobot/CsProjects/JavaProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/home/csrobot/CsProjects/JavaProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/home/csrobot/CsProjects/JavaProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/csrobot/CsProjects/JavaProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/home/csrobot/CsProjects/JavaProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/home/csrobot/CsProjects/JavaProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/home/csrobot/CsProjects/JavaProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/home/csrobot/CsProjects/JavaProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/home/csrobot/CsProjects/JavaProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/csrobot/CsProjects/JavaProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/home/csrobot/CsProjects/JavaProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/csrobot/CsProjects/JavaProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/home/csrobot/CsProjects/JavaProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/home/james/CsProjects/JavaProjects/AndroidProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/home/james/CsProjects/JavaProjects/AndroidProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/home/james/CsProjects/JavaProjects/AndroidProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/home/james/CsProjects/JavaProjects/AndroidProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/home/csrobot/CsProjects/JavaProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/home/csrobot/CsProjects/JavaProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/home/james/CsProjects/JavaProjects/AndroidProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/home/james/CsProjects/JavaProjects/AndroidProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/home/csrobot/CsProjects/JavaProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/home/csrobot/CsProjects/JavaProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/home/csrobot/CsProjects/JavaProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/home/csrobot/CsProjects/JavaProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/home/csrobot/CsProjects/JavaProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/home/csrobot/CsProjects/JavaProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/home/csrobot/CsProjects/JavaProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/home/csrobot/CsProjects/JavaProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/james/CsProjects/JavaProjects/AndroidProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/home/james/CsProjects/JavaProjects/AndroidProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/home/james/CsProjects/JavaProjects/AndroidProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/home/james/CsProjects/JavaProjects/AndroidProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/home/james/CsProjects/JavaProjects/AndroidProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/home/james/CsProjects/JavaProjects/AndroidProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/james/CsProjects/JavaProjects/AndroidProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/home/james/CsProjects/JavaProjects/AndroidProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/csrobot/CsProjects/JavaProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/home/csrobot/CsProjects/JavaProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/home/james/CsProjects/JavaProjects/AndroidProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/home/james/CsProjects/JavaProjects/AndroidProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/home/csrobot/CsProjects/JavaProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/home/csrobot/CsProjects/JavaProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/home/james/CsProjects/JavaProjects/AndroidProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/home/james/CsProjects/JavaProjects/AndroidProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/home/james/CsProjects/JavaProjects/AndroidProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/home/james/CsProjects/JavaProjects/AndroidProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/home/james/CsProjects/JavaProjects/AndroidProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/home/james/CsProjects/JavaProjects/AndroidProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/csrobot/CsProjects/JavaProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/home/csrobot/CsProjects/JavaProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/home/james/CsProjects/JavaProjects/AndroidProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/home/james/CsProjects/JavaProjects/AndroidProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/james/CsProjects/JavaProjects/AndroidProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/home/james/CsProjects/JavaProjects/AndroidProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/home/james/CsProjects/JavaProjects/AndroidProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/home/james/CsProjects/JavaProjects/AndroidProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/home/james/CsProjects/JavaProjects/AndroidProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/home/james/CsProjects/JavaProjects/AndroidProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/home/csrobot/CsProjects/JavaProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/home/csrobot/CsProjects/JavaProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/james/CsProjects/JavaProjects/AndroidProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/home/james/CsProjects/JavaProjects/AndroidProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/home/james/CsProjects/JavaProjects/AndroidProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/home/james/CsProjects/JavaProjects/AndroidProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/home/james/CsProjects/JavaProjects/AndroidProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/home/james/CsProjects/JavaProjects/AndroidProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/home/csrobot/CsProjects/JavaProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/home/csrobot/CsProjects/JavaProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/home/james/CsProjects/JavaProjects/AndroidProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/home/james/CsProjects/JavaProjects/AndroidProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/csrobot/CsProjects/JavaProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/home/csrobot/CsProjects/JavaProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/home/csrobot/CsProjects/JavaProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/home/csrobot/CsProjects/JavaProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/james/CsProjects/JavaProjects/AndroidProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/home/james/CsProjects/JavaProjects/AndroidProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/james/CsProjects/JavaProjects/AndroidProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/home/james/CsProjects/JavaProjects/AndroidProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/home/james/CsProjects/JavaProjects/AndroidProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/home/james/CsProjects/JavaProjects/AndroidProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/home/csrobot/CsProjects/JavaProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/home/csrobot/CsProjects/JavaProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/home/james/CsProjects/JavaProjects/AndroidProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/home/james/CsProjects/JavaProjects/AndroidProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/home/csrobot/CsProjects/JavaProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/home/csrobot/CsProjects/JavaProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/csrobot/CsProjects/JavaProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/home/csrobot/CsProjects/JavaProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/home/james/CsProjects/JavaProjects/AndroidProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/home/james/CsProjects/JavaProjects/AndroidProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/home/csrobot/CsProjects/JavaProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/home/csrobot/CsProjects/JavaProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/james/CsProjects/JavaProjects/AndroidProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/home/james/CsProjects/JavaProjects/AndroidProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/home/csrobot/CsProjects/JavaProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/home/csrobot/CsProjects/JavaProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/csrobot/CsProjects/JavaProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/notification_template_icon_group.xml",
+        "source": "/home/csrobot/CsProjects/JavaProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/james/CsProjects/JavaProjects/AndroidProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/home/james/CsProjects/JavaProjects/AndroidProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/home/james/CsProjects/JavaProjects/AndroidProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/home/james/CsProjects/JavaProjects/AndroidProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/home/james/CsProjects/JavaProjects/AndroidProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/home/james/CsProjects/JavaProjects/AndroidProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/home/csrobot/CsProjects/JavaProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/home/csrobot/CsProjects/JavaProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/home/csrobot/CsProjects/JavaProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/home/csrobot/CsProjects/JavaProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/csrobot/CsProjects/JavaProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/home/csrobot/CsProjects/JavaProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/james/CsProjects/JavaProjects/AndroidProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/home/james/CsProjects/JavaProjects/AndroidProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/james/CsProjects/JavaProjects/AndroidProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/home/james/CsProjects/JavaProjects/AndroidProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/home/james/CsProjects/JavaProjects/AndroidProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/home/james/CsProjects/JavaProjects/AndroidProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/home/james/CsProjects/JavaProjects/AndroidProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/home/james/CsProjects/JavaProjects/AndroidProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/james/CsProjects/JavaProjects/AndroidProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/notification_action.xml",
+        "source": "/home/james/CsProjects/JavaProjects/AndroidProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/notification_action.xml"
+    },
+    {
+        "merged": "/home/james/CsProjects/JavaProjects/AndroidProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/notification_action_tombstone.xml",
+        "source": "/home/james/CsProjects/JavaProjects/AndroidProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/csrobot/CsProjects/JavaProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/home/csrobot/CsProjects/JavaProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/csrobot/CsProjects/JavaProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/home/csrobot/CsProjects/JavaProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/home/james/CsProjects/JavaProjects/AndroidProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/home/james/CsProjects/JavaProjects/AndroidProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/james/CsProjects/JavaProjects/AndroidProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/home/james/CsProjects/JavaProjects/AndroidProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/home/james/CsProjects/JavaProjects/AndroidProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/home/james/CsProjects/JavaProjects/AndroidProjects/RosNdkPrac/DanRosJCxxPrac/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/home/csrobot/CsProjects/JavaProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/home/csrobot/CsProjects/JavaProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/home/csrobot/CsProjects/JavaProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/home/csrobot/CsProjects/JavaProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/csrobot/CsProjects/JavaProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/home/csrobot/CsProjects/JavaProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/home/csrobot/CsProjects/JavaProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/home/csrobot/CsProjects/JavaProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/home/james/CsProjects/JavaProjects/AndroidProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/main.xml",
+        "source": "/home/james/CsProjects/JavaProjects/AndroidProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/src/main/res/layout/main.xml"
+    },
+    {
+        "merged": "/home/james/CsProjects/JavaProjects/AndroidProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/home/james/CsProjects/JavaProjects/AndroidProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/csrobot/CsProjects/JavaProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/notification_template_media_custom.xml",
+        "source": "/home/csrobot/CsProjects/JavaProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/home/csrobot/CsProjects/JavaProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/network_config.xml",
+        "source": "/home/csrobot/CsProjects/JavaProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/src/main/res/layout/network_config.xml"
+    },
+    {
+        "merged": "/home/csrobot/CsProjects/JavaProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/home/csrobot/CsProjects/JavaProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/home/james/CsProjects/JavaProjects/AndroidProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/home/james/CsProjects/JavaProjects/AndroidProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/home/csrobot/CsProjects/JavaProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_title_material.xml",
+        "source": "/home/csrobot/CsProjects/JavaProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/csrobot/CsProjects/JavaProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/home/csrobot/CsProjects/JavaProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/home/james/CsProjects/JavaProjects/AndroidProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/home/james/CsProjects/JavaProjects/AndroidProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/james/CsProjects/JavaProjects/AndroidProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/home/james/CsProjects/JavaProjects/AndroidProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/home/csrobot/CsProjects/JavaProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/home/csrobot/CsProjects/JavaProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/home/james/CsProjects/JavaProjects/AndroidProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/home/james/CsProjects/JavaProjects/AndroidProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/csrobot/CsProjects/JavaProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/home/csrobot/CsProjects/JavaProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/home/james/CsProjects/JavaProjects/AndroidProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/home/james/CsProjects/JavaProjects/AndroidProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/james/CsProjects/JavaProjects/AndroidProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/home/james/CsProjects/JavaProjects/AndroidProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/james/CsProjects/JavaProjects/AndroidProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/notification_template_custom_big.xml",
+        "source": "/home/james/CsProjects/JavaProjects/AndroidProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/james/CsProjects/JavaProjects/AndroidProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/home/james/CsProjects/JavaProjects/AndroidProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/home/james/CsProjects/JavaProjects/AndroidProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/home/james/CsProjects/JavaProjects/AndroidProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/home/csrobot/CsProjects/JavaProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/home/csrobot/CsProjects/JavaProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/res/layout/notification_template_media.xml"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/james/CsProjects/JavaProjects/AndroidProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/home/james/CsProjects/JavaProjects/AndroidProjects/RosNdkPrac/DanRosJCxxPrac/app/src/main/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/home/csrobot/CsProjects/JavaProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/home/csrobot/CsProjects/JavaProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/src/main/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/home/csrobot/CsProjects/JavaProjects/RosNdkPrac/sample_app/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/home/csrobot/CsProjects/JavaProjects/RosNdkPrac/sample_app/app/src/main/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/home/csrobot/CsProjects/JavaProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/home/csrobot/CsProjects/JavaProjects/RosNdkPrac/DanRosJCxxPrac/app/src/main/res/menu/menu_main.xml"
+    },
+    {
+        "merged": "/home/james/CsProjects/JavaProjects/AndroidProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/res/merged/debug/menu/menu_main.xml",
+        "source": "/home/james/CsProjects/JavaProjects/AndroidProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/src/main/res/menu/menu_main.xml"
+    }
+]

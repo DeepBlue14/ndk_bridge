@@ -1,0 +1,41 @@
+
+{
+	"buildFiles" : 
+	[
+		"/home/csrobot/CsProjects/JavaProjects/RosNdkPrac/DanRosJCxxPrac/app/CMakeLists.txt"
+	],
+	"cleanCommands" : 
+	[
+		"/home/csrobot/Android/Sdk/cmake/3.6.3155560/bin/cmake --build /home/csrobot/CsProjects/JavaProjects/RosNdkPrac/DanRosJCxxPrac/app/.externalNativeBuild/cmake/debug/armeabi-v7a --target clean"
+	],
+	"cppFileExtensions" : [ "cpp" ],
+	"libraries" : 
+	{
+		"sample_app-Debug-armeabi-v7a" : 
+		{
+			"abi" : "armeabi-v7a",
+			"artifactName" : "sample_app",
+			"buildCommand" : "/home/csrobot/Android/Sdk/cmake/3.6.3155560/bin/cmake --build /home/csrobot/CsProjects/JavaProjects/RosNdkPrac/DanRosJCxxPrac/app/.externalNativeBuild/cmake/debug/armeabi-v7a --target sample_app",
+			"buildType" : "debug",
+			"files" : 
+			[
+				
+				{
+					"flags" : "  -target armv7-none-linux-androideabi -gcc-toolchain /home/csrobot/Android/Sdk/ndk-bundle/toolchains/arm-linux-androideabi-4.9/prebuilt/linux-x86_64 --sysroot=/home/csrobot/Android/Sdk/ndk-bundle/platforms/android-15/arch-arm  -Dsample_app_EXPORTS -isystem /home/csrobot/Android/Sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include -isystem /home/csrobot/Android/Sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/libs/armeabi-v7a/include -isystem /home/csrobot/Android/Sdk/ndk-bundle/sources/cxx-stl/gnu-libstdc++/4.9/include/backward  -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -fno-exceptions -fno-rtti -g -DANDROID -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -march=armv7-a -mfloat-abi=softfp -mfpu=vfpv3-d16 -fno-integrated-as -mthumb -Wa,--noexecstack -Wformat -Werror=format-security -fno-exceptions -fno-rtti -std=c++11 -O0 -fno-limit-debug-info -O0 -fno-limit-debug-info  -fPIC    -c ",
+					"src" : "/home/csrobot/CsProjects/JavaProjects/RosNdkPrac/DanRosJCxxPrac/app/src/main/jni/src/test.cpp",
+					"workingDirectory" : "/home/csrobot/CsProjects/JavaProjects/RosNdkPrac/DanRosJCxxPrac/app/.externalNativeBuild/cmake/debug/armeabi-v7a"
+				}
+			],
+			"output" : "/home/csrobot/CsProjects/JavaProjects/RosNdkPrac/DanRosJCxxPrac/app/build/intermediates/cmake/debug/obj/armeabi-v7a/libsample_app.so",
+			"toolchain" : "17229121304469030434"
+		}
+	},
+	"toolchains" : 
+	{
+		"17229121304469030434" : 
+		{
+			"cCompilerExecutable" : "/home/csrobot/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/bin/clang",
+			"cppCompilerExecutable" : "/home/csrobot/Android/Sdk/ndk-bundle/toolchains/llvm/prebuilt/linux-x86_64/bin/clang++"
+		}
+	}
+}

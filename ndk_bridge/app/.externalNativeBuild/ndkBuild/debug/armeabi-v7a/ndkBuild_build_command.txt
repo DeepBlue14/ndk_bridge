@@ -1,0 +1,18 @@
+Executable : /home/csrobot/Android/Sdk/ndk-bundle/ndk-build
+arguments : 
+NDK_PROJECT_PATH=null
+APP_BUILD_SCRIPT=/home/csrobot/CsProjects/JavaProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/src/main/jni/Android.mk
+NDK_APPLICATION_MK=/home/csrobot/CsProjects/JavaProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/src/main/jni/Application.mk
+APP_ABI=armeabi-v7a
+NDK_ALL_ABIS=armeabi-v7a
+NDK_DEBUG=1
+APP_PLATFORM=android-15
+NDK_OUT=/home/csrobot/CsProjects/JavaProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/ndkBuild/debug/obj
+NDK_LIBS_OUT=/home/csrobot/CsProjects/JavaProjects/DanRosJCxxPrac/DanRosJCxxPrac/app/build/intermediates/ndkBuild/debug/lib
+APP_CPPFLAGS+="-std=c++11"
+APP_SHORT_COMMANDS=false
+LOCAL_SHORT_COMMANDS=false
+-B
+-n
+jvmArgs : 
+
