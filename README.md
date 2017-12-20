@@ -1,14 +1,14 @@
-#ndk_bridge
+# ndk_bridge
 *Unleash the true potential of the ROS NDK!*
 
 =====
 
 
-###**Project Synopsis**
+### **Project Synopsis**
 *TBA...*
 
 
-###**Introduction**
+### **Introduction**
 
 The files which directly relate to the Android/ROS magic are:
 - MainActivity.java (launches the ros node and a data comm thread
@@ -31,7 +31,7 @@ jCxxComm.start();
 ```
 
 
-###**Build & Run**
+### **Build & Run**
 
 - Download the ROS binary form http://wiki.ros.org/android_ndk/Tutorials/Building%20The%20Example%20Applications%20using%20the%20Binary%20Distribution (or crosscompile it yourself).  place the roscpp_android_ndk at the same location as this file, and unzip it.
 - open chatter_bot.cpp, and set the ROS_MASTER_URI and ROS_IP to the correct ones.
